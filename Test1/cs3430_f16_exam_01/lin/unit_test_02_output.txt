@@ -1,0 +1,73 @@
+top 3 word codes in
+ab cd
+cd --> 199
+ab --> 195
+------
+
+top 3 word codes in
+ab ab cde
+cde --> 300
+ab --> 195
+ab --> 195
+------
+
+top 5 word codes in
+
+aaabb ccd
+ef ghi
+
+aaabb --> 487
+ghi --> 312
+ccd --> 298
+ef --> 203
+ --> 0
+------
+
+top 5 word codes in
+The wound is the place where the Light enters you.
+enters --> 657
+wound --> 557
+where --> 539
+place --> 517
+Light --> 504
+------
+
+top 7 word codes in
+
+Don't grieve.
+Anything you lose comes round
+in another form.
+
+Anything --> 834
+another --> 753
+grieve. --> 642
+round --> 552
+comes --> 535
+form. --> 436
+lose --> 435
+------
+
+top 10 word codes in
+Sell your cleverness and buy bewilderment.
+bewilderment. --> 1282
+cleverness --> 1082
+your --> 463
+Sell --> 400
+buy --> 336
+and --> 307
+------
+
+top 10 word codes in
+
+Raise your words, not voice.
+It is rain that grows flowers, not thunder.
+
+flowers, --> 770
+thunder. --> 762
+grows --> 562
+words, --> 559
+voice. --> 534
+Raise --> 500
+your --> 463
+------
+

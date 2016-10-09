@@ -1,0 +1,21 @@
+STATS FOR small_lin_temps.txt:
+NREC = 7
+MEAN = 30.178286
+MAX  = 32.062000
+MIN  = 21.875000
+STD  = 3.409009
+------
+STATS FOR small_lin_temps2.txt:
+NREC = 15
+MEAN = 33.033000
+MAX  = 34.000000
+MIN  = 32.125000
+STD  = 0.624565
+------
+STATS FOR lin_temps.txt:
+NREC = 3685
+MEAN = 28.011031
+MAX  = 85.000000
+MIN  = 19.125000
+STD  = 4.724455
+------
