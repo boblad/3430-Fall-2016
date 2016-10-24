@@ -22,10 +22,10 @@ def luminosity(rgb, rcoeff=0.2126, gcoeff=0.7152, bcoeff=0.0722):
     return rcoeff*rgb[0]+gcoeff*rgb[1]+bcoeff*rgb[2]
 
 def compute_avrg_luminosity(imagepath):
-    pass
+    import ipdb; ipdb.set_trace()
 
 def gen_avrg_lumin_for_dir(imgdir, filepat):
-    pass
+    yield compute_avrg_luminosity('{imgdir}{filepat}'.format)
 
 ## run ghe generator and output into STDOUT
 for fp, lum_avrg in gen_avrg_lumin_for_dir(args['idir'], r'*.png'):
