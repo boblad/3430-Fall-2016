@@ -1,0 +1,33 @@
+Bryant Oblad
+A01770171
+
+1)
+
+The semi-weekly river flow, (in cubic feet per second) at the US Geological Survey Data Station
+1242400 on Hangman Creek, from December 1992 to January 1993. All measurements are approximate and rounded to
+2 places after the decimal point. The average river flow is 17.69 cubic feet per second
+From December to January the flow increase by 16.46 cubic feet per second
+From the 1st half of December to the 2nd half of December the flow decreased by approximately 16
+cubic feet per second.
+
+The results from the first to second half December showed a depth increase of 1.6cm.
+The results from the first to second half January showed a depth increase of 24cm,
+The last data entry severely effected the results.
+
+The first - second quarter of December resulted in a depth decrease of 1.5cm.
+The third - fourth quarter of December resulted in a depth increase of .25cm.
+The first - second quarter of January resulted in a depth decrease of 3.5cm.
+The third - fourth quarter of January resulted in a depth increase of 61cm.
+
+Again, The last data value hugely effected the balance of the month.
+
+
+2)
+
+The following collected data and analysis from timestamped temperature measurements in degrees Celsius
+taken in a Langstroth beehive from 12:23 on July 26, 2016 up to 17:54 on August 9, 2016.
+The average temperature was 28.77 degrees celcius throughout the entire data sample time range.
+Next, the change in temperature in the first half of the time range (July 26 - August 2) was a decrease
+of 1.06 celcius, between the first and second quarter was a change of -0.59 degrees celcius.
+Throughout the last section of the third and fourth quater there was a change of 1.2 degrees
+celcius.

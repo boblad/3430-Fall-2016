@@ -1,0 +1,12 @@
+A01770171
+Bryant Oblad
+
+For my solution I would start by breaking up each use case that I need to form as small and simple functions as I could to allow reusability. My algorithm would start by knowing which
+starting point I would be at. My algorithm would need to know essentually what the layout of the possibilites would be. Depending on where I start I could just reverse
+a few of the algorithms or functions. While following the road (or the tape) I would need to keep the tape at the correct angle to ensure that the quad would not
+ run into walls or follow any undesired paths. The quad at a 90 degree turn would need to keep the quad at a point 
+and use the motion of yaw until we found the correct angle of the next path. I would need to have
+ a way to also mark when a lane comes to a dead end and reverse back to the last possible solution. I will need to know which lanes
+have already been traveled and which ones have failed. In the end it would be a trial and error method with the use of 
+probability to ensure the most efficient use of the paths taken or decision making of the quad.
+

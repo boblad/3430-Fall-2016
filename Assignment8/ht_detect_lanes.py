@@ -123,7 +123,7 @@ def unit_test_03(image_path, rho_accuracy, theta_accuracy, num_votes, min_len, m
     ll, rl = detect_ht_lanes_in_image(image_path, rho_accuracy, theta_accuracy, num_votes, min_len, max_gap)
     print('number of left lanes:', ll)
     print('number of right lanes:', rl)
-    
+
 def find_ll_rl_lanes_in_images_in_dir(imgdir, filepat, rho_acc, th_acc, num_votes, min_len, max_gap):
     pass
 
@@ -131,18 +131,13 @@ def unit_test_04(imgdir, filepat, rho_acc, th_acc, num_votes, min_len, max_gap):
     for fp, ll_rl in find_ll_rl_lanes_in_images_in_dir(imgdir, filepat, 1, numpy.pi/180,
                                          num_votes, min_len, max_gap):
        print(fp, ll_rl[0], ll_rl[1])
-    
+
 if __name__ == '__main__':
    # unit_test_01(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
     print(sys.argv[1])
-    print(sys.argv[2])    
+    print(sys.argv[2])
     plot_ht_lanes_in_image(sys.argv[1], 1, numpy.pi/180, int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
     #unit_test_02(sys.argv[1], 1, numpy.pi/180, int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
     #unit_test_03(sys.argv[1], sys.argv[2], 1, numpy.pi/180, int(sys.argv[3]), int(sys.argv[4]))
     #unit_test_04(sys.argv[1], sys.argv[2], 1, numpy.pi/180, int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[5]))
     pass
-
-
-
-
-
